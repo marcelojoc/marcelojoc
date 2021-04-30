@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there 👋 💻
 
 
 
 
 ## Hi, nice to meet you!
 
-**I'm Celeste Zapata.**
-<br />👩‍💻 Web Designer & Developer.
 <br />I’m a developer focused on **Front-End** & **Web Development**
-<br />with an Associated Degree in Computer Programming.
-<br />I have experience with **Web Design** & **Digital Marketing** integrations.
+
 <br />📌 I'm currently based in Mendoza, Argentina.
 
 <div align="left">
