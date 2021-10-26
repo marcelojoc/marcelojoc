@@ -15,9 +15,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="60" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="60" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
