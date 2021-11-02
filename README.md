@@ -5,7 +5,7 @@
 
 ## Hi, nice to meet you!
 
-<br />I’m a developer focused on **Front-End** & **Web Development**
+<br />I’m a developer focused on **Front-End** AND **Backend**  **Web Development**
 
 <br />📌 I'm currently based in Mendoza, Argentina.
 
